@@ -13,7 +13,7 @@ Inspired by iOS and Harmony OS for your projects! Built on top of the "Shadcn" c
 - Tab Switcher 
 
 
-Clone ths project and run the development server:
+Clone ths project and do: npm install. Then, run the development server:
 
 npm run dev
 # or
