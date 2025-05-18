@@ -1,5 +1,5 @@
 # A collection of React components for "Next.js"
-Inspired by iOS and Harmony OS for your projects! Built on top of "Shadcn" components.
+Inspired by iOS and Harmony OS for your projects! Built on top of the "Shadcn" components.
 
 ## The list of components:
 
