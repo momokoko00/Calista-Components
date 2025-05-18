@@ -44,7 +44,7 @@ function TabsDemo() {
                         </div>
                     </CardContent>
                     <CardFooter>
-                        <Button variant="roundAction" className="w-full">Save</Button>
+                        <Button variant="roundAction" size="lg" className="w-full">Save</Button>
                     </CardFooter>
                 </Card>
             </TabsContent>
@@ -67,7 +67,7 @@ function TabsDemo() {
                         </div>
                     </CardContent>
                     <CardFooter>
-                        <Button variant="roundAction" className="w-full">Update Password</Button>
+                        <Button variant="roundAction" size="lg" className="w-full">Update Password</Button>
                     </CardFooter>
                 </Card>
             </TabsContent>

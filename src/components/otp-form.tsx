@@ -41,7 +41,7 @@ export function OtpForm({
                 </InputOTPGroup>
               </InputOTP>
               <div className="flex flex-col gap-3">
-                <Button variant="roundAction" type="submit" className="w-full">
+                <Button variant="roundAction" size="lg" type="submit" className="w-full">
                   Verify
                 </Button>
               </div>

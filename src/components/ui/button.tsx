@@ -20,13 +20,13 @@ const buttonVariants = cva(
         ghost:
           "hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50",
         link: "text-primary underline-offset-4 hover:underline",
-        roundNeutral: "bg-white text-black dark:bg-[#1C1C1C] font-semibold dark:text-white rounded-full hover:mouse-pointer",
-        roundAction: "bg-white text-[#007AFF] font-semibold dark:bg-[#1C1C1C] rounded-full hover:cu-pointer",
+        roundNeutral: "bg-white text-black dark:bg-[#1C1C1C] font-semibold dark:text-white rounded-full hover:mouse-pointer border border-[rgba(0,0,0,0.1)] dark:border-[rgba(255,255,255,0.1)]",
+        roundAction: "bg-white text-[#007AFF] font-semibold dark:bg-[#1C1C1C] rounded-full hover:cu-pointer border border-[rgba(0,0,0,0.1)] dark:border-[rgba(255,255,255,0.1)]",
       },
       size: {
         default: "h-9 px-4 py-2 has-[>svg]:px-3",
         sm: "h-8 rounded-full gap-1.5 px-3 has-[>svg]:px-2.5",
-        lg: "h-10 rounded-full px-6 has-[>svg]:px-4",
+        lg: "h-11 rounded-full px-6 has-[>svg]:px-4",
         icon: "size-9",
       },
     },

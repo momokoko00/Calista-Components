@@ -48,7 +48,7 @@ export function LoginForm({
                 <Input id="password" placeholder="Enter your password" type="password" required />
               </div>
               <div className="flex flex-col gap-3">
-                <Button variant="roundAction" type="submit" className="w-full">
+                <Button variant="roundAction" size="lg" type="submit" className="w-full">
                   Login
                 </Button>
               </div>
