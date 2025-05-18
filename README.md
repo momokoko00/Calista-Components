@@ -1,9 +1,6 @@
 # A collection of React components for "Next.js"
 Inspired by iOS and Harmony OS for your projects! Built on top of "Shadcn" components.
 
-
-![components-dribbble](https://github.com/user-attachments/assets/fd71a7df-336a-43d5-903c-36818b0b6627)
-
 ## The list of components:
 
 - Button
